@@ -16,8 +16,12 @@
 - 👤 **Client Dashboard**: Track holdings, view transactions, and manage profiles.
 
 ---
-### Prerequisites
+## 🎨 Design
+The design for MyApp was created using Figma. You can view and explore the design files through the following link:
 
+[Figma Design Files
+](https://www.figma.com/design/fAyYsf4pIQ0gL6ziLWmRrO/Untitled?node-id=0-1&t=EvIp0UWha0FPKYAh-1)
+### Prerequisites
 - Node.js v14+
 - Expo CLI
 
