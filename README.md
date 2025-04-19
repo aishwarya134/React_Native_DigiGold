@@ -3,6 +3,17 @@
 **MyApp** is a React Native mobile application built with Expo that allows users to explore, understand, and invest in **DigiGold**. This platform offers a user-friendly interface to purchase digital gold, track real-time prices, learn how it works, and explore investment schemes securely and efficiently.
 
 ---
+## 🎬 Demo
+
+You can view a demo of the MyApp application at the following link:
+
+[📺 Watch Demo](https://drive.google.com/file/d/1ctXMCER7uQ5_I5AJWXGlDqtrgsCvVHm1/view?usp=sharing)
+
+## 🎨 Design
+The design for MyApp was created using Figma. You can view and explore the design files through the following link:
+
+[Figma Design Files
+](https://www.figma.com/design/fAyYsf4pIQ0gL6ziLWmRrO/Untitled?node-id=0-1&t=EvIp0UWha0FPKYAh-1)
 
 ## 🌟 Features
 
@@ -16,11 +27,7 @@
 - 👤 **Client Dashboard**: Track holdings, view transactions, and manage profiles.
 
 ---
-## 🎨 Design
-The design for MyApp was created using Figma. You can view and explore the design files through the following link:
 
-[Figma Design Files
-](https://www.figma.com/design/fAyYsf4pIQ0gL6ziLWmRrO/Untitled?node-id=0-1&t=EvIp0UWha0FPKYAh-1)
 ### Prerequisites
 - Node.js v14+
 - Expo CLI
