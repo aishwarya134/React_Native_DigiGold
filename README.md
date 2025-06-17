@@ -36,7 +36,7 @@ Install Expo CLI:
 ```bash
 npm install -g expo-cli
 #Installation
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/aishwarya134/React_Native_DigiGold
 cd YOUR_REPO_NAME
 npm install
 ### Start the app:
